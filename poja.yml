@@ -26,7 +26,6 @@ with_codeql: 'false'
 with_database: sqlite
 with_gen_clients: 'false'
 with_own_vpc: 'true'
-with_sqlite: 'true'
 with_publish_to_npm_registry: 'false'
 with_sentry: 'false'
 with_snapstart: 'false'
